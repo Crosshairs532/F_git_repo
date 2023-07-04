@@ -1,0 +1,12 @@
+body {
+    background-color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    /* font-size: larger; */
+    font-weight: bold;
+}
