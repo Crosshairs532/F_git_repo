@@ -10,3 +10,27 @@ h2 {
     /* font-size: larger; */
     font-weight: bold;
 }
+
+.first {
+    background-color: darksalmon;
+    text-align: center;
+    width: 20%;
+    margin: 20px;
+}
+
+.git {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    /* border: 2px solid black; */
+    /* border-radius: px; */
+    border-left: 2px solid;
+    border-image: linear-gradient(blue, coral);
+    border-image-slice: 1;
+    border-top: 2px solid
+}
